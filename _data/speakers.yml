@@ -1,0 +1,24 @@
+- 
+  id: 3
+  name: "Mickey"
+  surname: "Mouse"
+  company: "Disney"
+  title: "Main Mouse"
+  bio: "Mickey was the first Disney Character."
+  thumbnailUrl: Mickey_Mouse.png
+  rockstar: true
+  social: 
+    - {name: "facebook", link: "https://www.facebook.com/MickeyMouse/"}
+- 
+  id: 4
+  name: "Bruce"
+  surname: "Wayne"
+  company: "Wayne Enterprises"
+  title: "Vigilante / Caped crusader"
+  bio: '<p>Tarararararararara. BATMAN!!'
+  thumbnailUrl: Batman.png
+  rockstar: true
+  social: 
+    #- {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+    - {name: "twitter", link: "https://twitter.com/dcbatman"}
+    #- {name: "github", link: "https://github.com/dmytrodanylyk"}
