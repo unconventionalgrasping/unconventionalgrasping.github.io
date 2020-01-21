@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Welcome"
+date:   2020-01-19 09:00:00
+isStaticPost: false
+---
+
+Hi
+#### Welcome
+We'll be posting news here
+
+#### Any questions? 
+Email organizers at [graspfail@gmail.com](mailto:graspfail@gmail.com)
