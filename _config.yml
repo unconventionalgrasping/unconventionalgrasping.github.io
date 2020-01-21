@@ -17,7 +17,7 @@ baseurl: "/failure_ws"
 url: "http://joaobimbo.github.io/failure_ws"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-156431559-1"
-googleAnalyticsSiteUrl: "joaobimbo.github.io/failure_ws"
+googleAnalyticsSiteUrl: "http://joaobimbo.github.io/failure_ws"
 siteVerification: "wedOD5uHWBKVzRU8wudTv5xLFbADLHdm6zhevjNFJw4"
                    
 # Organizer Info
@@ -31,13 +31,13 @@ organizerLink: "http://joaobimbo.github.io"
 # Head
 metaKeywords: "event, workshop, grasping, robot, robotics, iros, manipulation"
 twitterAccount: "@failtograsp"
-socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
-socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+socialImageSrcGooglePlus: "/img/seo/fmark.jpg"
+socialImageSrcTwitter: "/img/seo/fmark.jpg"
+socialImageSrcFacebook: "/img/seo/fmark.jpg"
 
 # Documents
-c4pUrl: "https://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4pUrl: ""
+c4sponsorsUrl: "/assets/call.pdf"
 
 
 # Navigation
@@ -118,8 +118,8 @@ venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio syste
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+twitterHashTag: "failtograsp_iros"
+twitterFeed: "http://twitter.com/failtograsp"
 
 # Partners Block
 organizersTitle: "Organizers"
@@ -198,7 +198,7 @@ footerBlocks:
 # Blog
 blogTitle: "Latest news"
 blogCommentsEnabled: true
-discusShortName: "failtograspiros"
+discusShortName: "failtograsp_iros"
 
 # Speakers List Block
 showSessions: true
