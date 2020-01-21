@@ -60,7 +60,7 @@ heroTitle: "Why do robots fail to grasp?"
 heroDesc: "Failure c<typeout> in robot grasping and manipulation"
 eventDate: "IROS Las Vegas - October 2020"
 typeoutTextValues: '"ases", "auses"'
-typeoutFallback: "ca(u)ses"
+typeoutFallback: "a(u)ses"
 heroButtons:
  #- {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
  #- {permalink: "/#tickets", text: "Buy tickets"}
