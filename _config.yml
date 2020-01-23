@@ -56,7 +56,7 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "white.jpg"
-heroTitle: "<br><br><br><br><br><br>Why robots fail to grasp?"
+heroTitle: "Why robots fail to grasp?"
 heroDesc: "Failure c<typeout> in robot grasping and manipulation"
 eventDate: "Proposed workshop at IROS 2020"
 typeoutTextValues: '"ases", "auses"'
