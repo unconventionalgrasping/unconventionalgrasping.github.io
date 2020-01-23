@@ -43,16 +43,20 @@ c4sponsorsUrl: "/assets/call.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
+ - {permalink: "/blog/objectives", text: "Objectives"}
  - {permalink: "/blog/", text: "News"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Organizers"}
+ - {permalink: "/team/", text: "Organizers"} 
  #- {permalink: "/logistics/", text: "Logistics"}
  #- {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdL80eFW_E_u2Lxh6EtlvDFLHRn1uA4Sy7DHuNtjs4cZrz5GQ/viewform?usp=sf_link", text: "Contribute"}
 rightNavigationButtons:
  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdL80eFW_E_u2Lxh6EtlvDFLHRn1uA4Sy7DHuNtjs4cZrz5GQ/viewform?usp=sf_link", text: "Contribute"}
+
+#Banner block
+bannerImage: "iros2020banner.png"
 
 # Hero Block
 heroImage: "white.jpg"
@@ -77,7 +81,7 @@ aboutBlock:
  - {title: "Create", image: "fail.jpg", text: "new research problems."}
 
 # Statistic Block
-statisticBlockImage: "statistic.jpg"
+statisticBlockImage: "back11.jpg"
 statisticBlock:
  - {count: "8", specialCharacter: " ", info: "Speakers", detail: "from industry and academia"}
  - {count: "50", specialCharacter: "+", info: "attendees", detail: ""}
@@ -86,7 +90,7 @@ statisticBlock:
 latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
-rockstarSpeakersImage: "rockstar-speakers.jpg"
+rockstarSpeakersImage: "back3.jpg"
 rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "Speakers"
 rockstarSpeakersButtonText: "See all speakers"
@@ -109,7 +113,7 @@ mapMobileCenterCoordinates: "49.841620, 24.029411"
 
 # Venue Block
 venueBlockTitle: "Venue"
-venueBigImage: "venue_0.jpg"
+venueBigImage: "back5.png"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
@@ -117,8 +121,8 @@ venueTitle: "Kinopalace Cinema"
 venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
 
 # Tweets Feed Block
-tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "What's Up?"
+tweetsFeedImage: "back10.jpg"
+tweetsFeedTitle: "Follow us"
 twitterHashTag: "failtograsp_iros"
 twitterFeed: "http://twitter.com/failtograsp"
 
@@ -128,7 +132,7 @@ partnersTitle: "Partners"
 partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
-subscribeImage: "subscribe.jpg"
+subscribeImage: "back12.jpg"
 subscribeTitle: "Subscribe for updates"
 subscribeAction: "https://gmail.us4.list-manage.com/subscribe/post?u=bb6a1579bbe6df4014bb7fb50&amp;id=073f4248a0"
 subscribeInfo: "We'll be sending you the latest updates!"
