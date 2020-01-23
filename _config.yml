@@ -43,30 +43,31 @@ c4sponsorsUrl: "/assets/call.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
+ - {permalink: "/blog/", text: "News"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Organizers"}
  #- {permalink: "/logistics/", text: "Logistics"}
  #- {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- #- {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdL80eFW_E_u2Lxh6EtlvDFLHRn1uA4Sy7DHuNtjs4cZrz5GQ/viewform?usp=sf_link", text: "Contribute"}
 rightNavigationButtons:
- #- {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdL80eFW_E_u2Lxh6EtlvDFLHRn1uA4Sy7DHuNtjs4cZrz5GQ/viewform?usp=sf_link", text: "Contribute"}
 
 # Hero Block
 heroImage: "white.jpg"
 heroTitle: "Why robots fail to grasp?"
 heroDesc: "Failure c<typeout> in robot grasping and manipulation"
-eventDate: "IROS Las Vegas - October 2020"
+eventDate: "Proposed workshop at IROS 2020"
 typeoutTextValues: '"ases", "auses"'
 typeoutFallback: "a(u)ses"
 heroButtons:
- #- {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdL80eFW_E_u2Lxh6EtlvDFLHRn1uA4Sy7DHuNtjs4cZrz5GQ/viewform?usp=sf_link", text: "Contribute"}
  #- {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
 aboutTitle: "About the Workshop"
+aboutAbstract: "This workshop is dedicated to the discussion of failure cases in robotic grasping and manipulation.<br> We will explore the main causes for these failures, and reason about strategies to solve them."
 aboutBlock:
  #- {title: "Speakers", image: "conference.jpg", text: "A range of speakers from backgrounds in academia and industry" }
  #- {title: "Interact", image: "hackathon.jpg", text: "Interact with other participants. Share your failure story with us!" }
@@ -204,7 +205,7 @@ discusShortName: "failtograsp"
 showSessions: true
 
 # Team Block
-teamBlockTitle: "About us"
+teamBlockTitle: "Organisers"
 aboutUs: ""
 
 # Logistics Find Way Block
