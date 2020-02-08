@@ -61,7 +61,7 @@ bannerImage: "iros2020banner.png"
 # Hero Block
 heroImage: "white.jpg"
 heroTitle: "Why robots fail to grasp?"
-heroDesc: "Failure c<typeout> in robot grasping and manipulation"
+heroDesc: "Failure c<typeout> in robot manipulation"
 eventDate: "Proposed workshop at IROS 2020"
 typeoutTextValues: '"ases", "auses"'
 typeoutFallback: "a(u)ses"
