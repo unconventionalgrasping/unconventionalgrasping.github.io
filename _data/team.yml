@@ -26,3 +26,14 @@
     #- {name: "github", link: "https://github.com/ozasadnyy"}
 - 
   id: 2
+  name: "Kensuke"
+  surname: "Harada"
+  title: "Professor, Osaka University"
+  thumbnailUrl: harada2.jpg
+  team: false
+  ribbon: 
+    #- {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    #- {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
+    #- {name: "github", link: "https://github.com/ozasadnyy"}
+  
