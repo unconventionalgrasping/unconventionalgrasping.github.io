@@ -12,7 +12,7 @@
   title: "Title"
   description: "Description"
   subtype: presentation
-  speakers: [1]
+  speakers: [0]
   #language: en
   #complexity: "Intermediate" 
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
