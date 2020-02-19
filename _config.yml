@@ -16,8 +16,8 @@ description: "Workshop on failures in robot grasping and manipulation"
 baseurl: "/failure_ws"
 url: "http://failtograsp.github.io"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-157056978-1"
-googleAnalyticsSiteUrl: "http://joaobimbo.github.io/failure_ws"
+googleAnalyticsTrackingId: "UA-157056978-2"
+googleAnalyticsSiteUrl: "http://failtograsp.github.io/failure_ws"
 siteVerification: "wedOD5uHWBKVzRU8wudTv5xLFbADLHdm6zhevjNFJw4"
                    
 # Organizer Info
@@ -26,7 +26,7 @@ organizerAlternateName: "Joao Bimbo"
 organizerDescription: "Others"
 organizerEmail: "failtograsp@gmail.com"
 organizerLogo: "/img/seo/fmark.jpg"
-organizerLink: "http://joaobimbo.github.io"
+organizerLink: "http://failtograsp.github.io"
 
 # Head
 metaKeywords: "event, workshop, grasping, robot, robotics, iros, manipulation"
