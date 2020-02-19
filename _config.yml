@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "Failure to grasp"
 email: "failtograsp@gmail.com"
 description: "Workshop on failures in robot grasping and manipulation"
-baseurl: "/failure_ws"
+baseurl: "/"
 url: "http://failtograsp.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-157056978-2"
