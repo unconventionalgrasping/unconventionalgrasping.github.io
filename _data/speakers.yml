@@ -18,7 +18,7 @@
   title: "Lecturer"
   bio: "Dr. Dimitrios Kanoulas is a Lecturer (Assistant Professor) in Robotics and Computation at the University College London (UCL), Department of Computer Science.   He is leading the Robot Perception and Learning (RPL) lab of the Autonomous System Research Group at UCL, working in the field of perception and learning for mobile/articulated robots, and in particular, he is developing new estimation and planning algorithms for robots that navigate, locomote, and manipulate in uncertain natural environments.  Before UCL, he was a senior postdoctoral researcher at the Humanoids & Human Centered Mechatronics (HHCM) Lab of the Department of Advanced Robotics Department at the Istituto Italiano di Tecnologia (IIT), working with Dr. Nikos Tsagarakis and Prof. Darwin Caldwell on the WALK-MAN, CogImon, CENTAURO, and Pholus projects.  He completed his Ph.D. at the Geometric and Physical Computing (GPC) Lab in the College of Computer and Information Science at Northeastern University, advised by Prof. Marsette Vona. "
   thumbnailUrl: dimitris.jpg
-  rockstar: true
+  rockstar: false
   social: 
     #- {name: "facebook", link: "https://www.facebook.com/MickeyMouse/"}
 
@@ -30,7 +30,7 @@
   title: "Research Engineer"
   bio: "Giulia Vezzani is a Research Engineer working in the Robotics Lab at DeepMind. Her main interests are in grasping, manipulation and Reinforcement Learning. She was previously a Postdoctoral Research at the iCub Facility of the Istituto Italiando di Tecnologia (IIT) working in the Humanoid Sensing and Perception team. Previously, Giulia received her Ph.D from IIT and Universita' degli Studi di Genova in Advanced and Humanoid robotics, with a dissertation on how to combine visual and tactile information for autonomous manipulation. "
   thumbnailUrl: giulia.jpg
-  rockstar: true
+  rockstar: false
   social: 
     #- {name: "facebook", link: "https://www.facebook.com/MickeyMouse/"}
 
@@ -42,6 +42,6 @@
   title: "Postdoctoral Associate"
   bio: "Joao Bimbo is a Postdoctoral Associate at the GrabLab, at the Yale School of Engineering & Applied Science. He has an MSc in Electrical Engineering from the University of Coimbra (Portugal) and a PhD in Robotics from King’s College London (UK). He was previously a postdoc the Italian Institute of Technology. His research interests are robot grasping and manipulation, tactile sensing and rehabilitation robots. "
   thumbnailUrl: joao.pg
-  rockstar: truej
+  rockstar: false
   social: 
     #- {name: "facebook", link: "https://www.facebook.com/MickeyMouse/"}
