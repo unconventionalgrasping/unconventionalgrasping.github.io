@@ -18,7 +18,9 @@ url: "http://failtograsp.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-157056978-2"
 googleAnalyticsSiteUrl: "http://failtograsp.github.io"
-siteVerification: "wedOD5uHWBKVzRU8wudTv5xLFbADLHdm6zhevjNFJw4"
+#siteVerification: "wedOD5uHWBKVzRU8wudTv5xLFbADLHdm6zhevjNFJw4"
+siteVerification: "ef9EUbPcq3GtOgLRuhiO3D_MweE6oNolh3rKP7wh0y8"
+
                    
 # Organizer Info
 organizerName: "Joao Bimbo"
