@@ -1,24 +1,17 @@
 - 
-  id: 3
-  name: "Mickey"
-  surname: "Mouse"
-  company: "Disney"
+  id: 0
+  name: "Kensuke"
+  surname: "Harada"
+  company: "Osaka University"
   title: "Main Mouse"
-  bio: "Mickey was the first Disney Character."
-  thumbnailUrl: Mickey_Mouse.png
+  bio: "Prof. Kensuke Harada received Ph.D. from Graduate School of Engineering, 
+Kyoto University in 1997. From 1997 to 2002, he worked as a research associate 
+at Hiroshima University. From 2002 to 2016, he was a research scientist at 
+National Institute of Advanced Industrial Science and Technology (AIST). 
+For one year from 2005 to 2006, he was a visiting scholar at Computer Science 
+Department of Stanford University. Since 2016, he is a professor at 
+Graduate School of Engineering Science, Osaka University. "
+  thumbnailUrl: harada2.png
   rockstar: true
   social: 
-    - {name: "facebook", link: "https://www.facebook.com/MickeyMouse/"}
-- 
-  id: 4
-  name: "Bruce"
-  surname: "Wayne"
-  company: "Wayne Enterprises"
-  title: "Vigilante / Caped crusader"
-  bio: '<p>Tarararararararara. BATMAN!!'
-  thumbnailUrl: Batman.png
-  rockstar: true
-  social: 
-    #- {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dcbatman"}
-    #- {name: "github", link: "https://github.com/dmytrodanylyk"}
+    #- {name: "facebook", link: "https://www.facebook.com/MickeyMouse/"}
