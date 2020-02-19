@@ -1,5 +1,14 @@
 -
   id: 001
+  title: "Welcome"
+  description: "Small introduction to workshop objectives and overview of the schedule"
+  subtype: presentation
+  speakers: []
+  #language: en
+  #complexity: "Intermediate" 
+  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+-
+  id: 002
   title: "Title"
   description: "Description"
   subtype: presentation
