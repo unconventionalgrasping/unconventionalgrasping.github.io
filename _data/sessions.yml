@@ -1,19 +1,10 @@
 -
   id: 001
-  title: "Entertaining Generations"
-  description: "Mickey will tell all about having fun"
+  title: "Title"
+  description: "Description"
   subtype: presentation
-  speakers: [3]
+  speakers: [1]
   #language: en
   #complexity: "Intermediate" 
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 -
-  id: 004
-  title: "How to be a Vigilante in the web2.0"
-  description: "Batman has had a successful career fighting villains in the XX century. Recent technological advances, however, pose new challenges in the crime-fighting business"
-  subtype: keynote
-  speakers: [4]
-  #language: uk
-  #complexity: "Beginner"
-  #presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/1jgE-lrfZ3k"
