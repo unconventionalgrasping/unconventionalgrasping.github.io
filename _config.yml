@@ -117,8 +117,8 @@ venueBigImage: "back5.png"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueTitle: "Caesars Forum"
+venueFeatures: ["550,000 sq. ft.", "The two largest ballrooms in the world", "10 minutes taxi ride from McCarran International Airport"]
 
 # Tweets Feed Block
 tweetsFeedImage: "back10.jpg"
