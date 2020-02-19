@@ -17,7 +17,7 @@ baseurl: "/failure_ws"
 url: "http://failtograsp.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-157056978-2"
-googleAnalyticsSiteUrl: "http://failtograsp.github.io/failure_ws"
+googleAnalyticsSiteUrl: "http://failtograsp.github.io"
 siteVerification: "wedOD5uHWBKVzRU8wudTv5xLFbADLHdm6zhevjNFJw4"
                    
 # Organizer Info
