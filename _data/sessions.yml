@@ -3,7 +3,7 @@
   title: "Welcome"
   description: "Small introduction to workshop objectives and overview of the schedule"
   subtype: presentation
-  speakers: []
+  speakers: [0,1,2,3]
   #language: en
   #complexity: "Intermediate" 
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
