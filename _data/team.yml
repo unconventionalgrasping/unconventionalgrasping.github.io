@@ -29,7 +29,7 @@
   name: "Kensuke"
   surname: "Harada"
   title: "Professor, Osaka University"
-  thumbnailUrl: harada2.jpg
+  thumbnailUrl: harada2.png
   team: false
   ribbon: 
     #- {abbr: "GDG", title: "Google Developer Group"}
