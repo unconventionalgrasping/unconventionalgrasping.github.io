@@ -42,7 +42,7 @@
                                     <div class="slot-content" style="border-right-color: {{ day.tracks[slotIndex].color }}">
                                         <h5 class="slot-title" itemprop="name">{{ session.title }}</h5>
                                         <span class="slot-language">{{session.language | upcase}}</span>
-                                        <ul class="slot-speakers">
+                                        <ul class="slot-speakers" data-columns="2">
                                             {% for speaker in site.data.speakers %}
                                                 {% for session_speaker in session.speakers %}
                                                     {% if session_speaker == speaker.id %}
