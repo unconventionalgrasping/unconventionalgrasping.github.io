@@ -45,9 +45,7 @@
   rockstar: false
   social: 
     #- {name: "facebook", link: "https://www.facebook.com/MickeyMouse/"}
-
-
-
+-
   id: 10
   name: "Jeannette"
   surname: "Bohg"
@@ -55,7 +53,7 @@
   title: "Professor"
   bio: "I'm a Professor for Robotics at Stanford University. I'm also directing the Interactive Perception and Robot Learning Lab. I enjoy research at the intersection of Robotics, Machine Learning and Computer Vision applied to problems in Robotic Grasping and Manipulation.
 "
-  thumbnailUrl: joao.jpg
+  thumbnailUrl: jbohg.png
   rockstar: true
   social: 
     #- {name: "facebook", link: "https://www.facebook.com/MickeyMouse/"}
