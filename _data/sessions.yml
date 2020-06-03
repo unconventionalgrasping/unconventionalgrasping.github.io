@@ -26,3 +26,9 @@ id: 002
   #complexity: "Intermediate" 
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 
+id: 999
+  title: "Sensory motor search for learning and recovering from failure in robotic manipulation"
+  subtype: break
+
+#K. Goldberg: “Addressing Persistent Failures in Warehouse Grasping“
+#R. Walker/T. Oliver: “Failures in grasping and manipulation in dexterous hands and smart grasping”
