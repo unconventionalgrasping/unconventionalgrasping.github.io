@@ -56,5 +56,5 @@
   thumbnailUrl: jbohg.png
   rockstar: true
   social: 
-    #- {name: "facebook", link: "https://www.facebook.com/MickeyMouse/"}
- 
+    - {name: "site", link: "https://web.stanford.edu/~bohg/"}
+  
