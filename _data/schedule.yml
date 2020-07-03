@@ -24,3 +24,28 @@
         endTime: "11:00",
         sessionIds: [999]
     }
+    - {
+        startTime: "11:00",
+        endTime: "11:40",
+        sessionIds: [004]
+    }
+    - {
+        startTime: "11:40",
+        endTime: "12:20",
+        sessionIds: [005]
+    }
+    - {
+        startTime: "12:20",
+        endTime: "13:30",
+        sessionIds: [998]
+    }    
+    - {
+        startTime: "13:30",
+        endTime: "14:10",
+        sessionIds: [006]
+    }
+    - {
+        startTime: "14:10",
+        endTime: "14:50",
+        sessionIds: [007]
+    }

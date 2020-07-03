@@ -29,6 +29,10 @@
   id: 999
   title: "Coffee Break"
   subtype: break
+  
+  id: 998
+  title: "Lunch Break"
+  subtype: break
 
   id: 004
   title: "TBD"
