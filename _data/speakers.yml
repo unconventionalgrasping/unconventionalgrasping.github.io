@@ -51,10 +51,54 @@
   surname: "Bohg"
   company: "Stanford University"
   title: "Professor"
-  bio: "I'm a Professor for Robotics at Stanford University. I'm also directing the Interactive Perception and Robot Learning Lab. I enjoy research at the intersection of Robotics, Machine Learning and Computer Vision applied to problems in Robotic Grasping and Manipulation.
+  bio: "Jeannette Bohg is a Professor for Robotics at Stanford University and the director the Interactive Perception and Robot Learning Lab. Her research lies at the intersection of Robotics, Machine Learning and Computer Vision applied to problems in Robotic Grasping and Manipulation.
 "
   thumbnailUrl: jbohg.png
   rockstar: true
   social: 
     - {name: "site", link: "https://web.stanford.edu/~bohg/"}
   
+  id: 11
+  name: "Juxi"
+  surname: "Leitner"
+  company: "Queensland University of Technology"
+  title: "Researcher"
+  bio: "Juxi Leitner is a researcher at the Queensland University of Technology where he leads the Manipulation efforts of the Australian Centre for Robotic Vision (ACRV) and the co-founder of the startup LYRO Robotics. His research focuses on the intersection of Robotics, Computer Vision and Artificial Intelligence."
+  thumbnailUrl: jleitner.png
+  rockstar: false
+  social: 
+    - {name: "site", link: "http://juxi.net/"}
+    
+  id: 12
+  name: "Ken"
+  surname: "Goldberg"
+  company: "UC Berkeley"
+  title: "Professor"
+  bio: "Ken Goldberg is the William S. Floyd Jr. Distinguished Chair in Engineering at UC Berkeley. Ken is on the Editorial Board of the journal Science Robotics, served as Chair of the Industrial Engineering and Operations Research Department, and co-founded the IEEE Transactions on Automation Science and Engineering."
+  thumbnailUrl: kgoldberg.jpg
+  rockstar: true
+  social: 
+    - {name: "site", link: "https://goldberg.berkeley.edu/"}
+
+
+  id: 13
+  name: "Lorenzo"
+  surname: "Natale"
+  company: "Istituto Italiano di Tecnologia (IIT)"
+  title: "Tenured Senior Researcher"
+  bio: "Lorenzo Natale is Tenured Senior Researcher at the Italian Institute of Technology. He has contributed to the development of various humanoid platforms. He was one of the main contributors to the design and development of the iCub platform and he has been leading the development of the iCub software architecture and the YARP middleware. His research interests range from vision and tactile sensing to software architectures for robotics."
+  thumbnailUrl: lnatale.jpg
+  rockstar: true
+  social: 
+    - {name: "site", link: "https://lornat75.github.io/"}
+
+ id: 13
+  name: "Rob"
+  surname: "Platt"
+  company: "Northeastern University"
+  title: "Assistant Professor"
+  bio: "Robert Platt Jr. is an Assistant Professor at the Khoury College of Computer Sciences of  Northeastern University. His research interests are robotics and machine learning with a focus on perception, planning, and control in uncertain environments. I am particularly interested in applications to robot manipulation."
+  thumbnailUrl: rplatt.jpg
+  rockstar: true
+  social: 
+    - {name: "site", link: "http://www.ccs.neu.edu/home/rplatt/"}
