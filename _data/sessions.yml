@@ -29,29 +29,29 @@
   id: 999
   title: "Coffee Break"
   subtype: break
-  
+-  
   id: 998
   title: "Lunch Break"
   subtype: break
-
+-
   id: 004
   title: "TBD"
   description: "TBD"
   subtype: presentation
   speakers: [11]
-
+-
   id: 005
   title: "Addressing Persistent Failures in Warehouse Grasping"
   description: "TBD"
   subtype: presentation
   speakers: [12]
-
+-
   id: 006
   title: "TBD"
   description: "TBD"
   subtype: presentation
   speakers: [13]
-
+-
   id: 007
   title: "TBD"
   description: "TBD"
