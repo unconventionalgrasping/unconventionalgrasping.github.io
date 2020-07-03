@@ -30,5 +30,30 @@
   title: "Coffee Break"
   subtype: break
 
-#K. Goldberg: “Addressing Persistent Failures in Warehouse Grasping“
+  id: 004
+  title: "TBD"
+  description: "TBD"
+  subtype: presentation
+  speakers: [11]
+
+  id: 005
+  title: "Addressing Persistent Failures in Warehouse Grasping"
+  description: "TBD"
+  subtype: presentation
+  speakers: [12]
+
+  id: 006
+  title: "TBD"
+  description: "TBD"
+  subtype: presentation
+  speakers: [13]
+
+  id: 007
+  title: "TBD"
+  description: "TBD"
+  subtype: presentation
+  speakers: [14]
+
+
+#K. Goldberg: 
 #R. Walker/T. Oliver: “Failures in grasping and manipulation in dexterous hands and smart grasping”
