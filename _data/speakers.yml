@@ -33,7 +33,6 @@
   rockstar: false
   social: 
     #- {name: "facebook", link: "https://www.facebook.com/MickeyMouse/"}
-
 - 
   id: 3
   name: "Joao"
@@ -51,13 +50,12 @@
   surname: "Bohg"
   company: "Stanford University"
   title: "Professor"
-  bio: "Jeannette Bohg is a Professor for Robotics at Stanford University and the director the Interactive Perception and Robot Learning Lab. Her research lies at the intersection of Robotics, Machine Learning and Computer Vision applied to problems in Robotic Grasping and Manipulation.
-"
+  bio: "Jeannette Bohg is a Professor for Robotics at Stanford University and the director the Interactive Perception and Robot Learning Lab. Her research lies at the intersection of Robotics, Machine Learning and Computer Vision applied to problems in Robotic Grasping and Manipulation."
   thumbnailUrl: jbohg.png
   rockstar: true
   social: 
     - {name: "site", link: "https://web.stanford.edu/~bohg/"}
-  
+-  
   id: 11
   name: "Juxi"
   surname: "Leitner"
@@ -68,7 +66,7 @@
   rockstar: false
   social: 
     - {name: "site", link: "http://juxi.net/"}
-    
+-    
   id: 12
   name: "Ken"
   surname: "Goldberg"
@@ -79,8 +77,7 @@
   rockstar: true
   social: 
     - {name: "site", link: "https://goldberg.berkeley.edu/"}
-
-
+-
   id: 13
   name: "Lorenzo"
   surname: "Natale"
@@ -91,7 +88,7 @@
   rockstar: true
   social: 
     - {name: "site", link: "https://lornat75.github.io/"}
-
+-
  id: 14
   name: "Rob"
   surname: "Platt"
