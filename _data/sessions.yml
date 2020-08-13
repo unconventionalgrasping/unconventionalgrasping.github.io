@@ -63,8 +63,14 @@
   description: "TBD"
   subtype: presentation
   speakers: [15]
-
-
+-  
+  id: 100
+  title: "Round-table discussion"
+  subtype: presentation
+-  
+  id: 101
+  title: "Closing Remarks"
+  subtype: presentation
 
 #K. Goldberg: 
 #R. Walker/T. Oliver: “Failures in grasping and manipulation in dexterous hands and smart grasping”
