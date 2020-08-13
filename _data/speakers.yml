@@ -99,3 +99,14 @@
   rockstar: true
   social: 
     - {name: "site", link: "http://www.ccs.neu.edu/home/rplatt/"}
+-
+  id: 15
+  name: "Andrew"
+  surname: "Sharp"
+  company: "NASA JSC"
+  title: ""
+  bio: ""
+  thumbnailUrl: ""
+  rockstar: false
+  social: 
+    - {name: "site", link: "https://www.nasa.gov"}

@@ -57,6 +57,13 @@
   description: "TBD"
   subtype: presentation
   speakers: [14]
+-
+  id: 007
+  title: "Robust Manipulation for Remote Operations"
+  description: "TBD"
+  subtype: presentation
+  speakers: [15]
+
 
 
 #K. Goldberg: 
