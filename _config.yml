@@ -76,10 +76,10 @@ aboutAbstract: "This workshop is dedicated to the discussion of failure cases in
 aboutBlock:
  #- {title: "Speakers", image: "conference.jpg", text: "A range of speakers from backgrounds in academia and industry" }
  #- {title: "Interact", image: "hackathon.jpg", text: "Interact with other participants. Share your failure story with us!" }
- - {title: "Learn", image: "fail.jpg", text: "from the experience of other participants."}
- - {title: "Share", image: "fail.jpg", text: "your unsuccessful ideas, hypotheses, and experiments."}
- - {title: "Network", image: "fail.jpg", text: "with other participants. Join efforts to address common problems."}
- - {title: "Create", image: "fail.jpg", text: "new research problems."}
+ - {title: "Learn", image: "learn.jpg", text: "from the experience of other participants."}
+ - {title: "Share", image: "share.png", text: "your unsuccessful ideas, hypotheses, and experiments."}
+ - {title: "Network", image: "network.png", text: "with other participants. Join efforts to address common problems."}
+ - {title: "Create", image: "create.png", text: "new research problems."}
 
 # Statistic Block
 statisticBlockImage: "back11.jpg"
