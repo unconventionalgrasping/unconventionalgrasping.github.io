@@ -5,8 +5,8 @@ date:   2020-01-19 09:00:00
 isStaticPost: false
 ---
 
-## Call for Contributions ##
-### Overview: ###
+#### Call for Contributions ####
+##### Overview: #####
 Failures are an essential part of every innovation and development process. Scientific research can often be seen as a leap in the dark, where the
 methods to be used and even the outcomes cannot be known a priori. Despite their importance, failures are often overlooked in the research 
 process and little time is devoted to reasoning and reporting unsuccessful trials.
@@ -19,23 +19,27 @@ and manipulation. The main aim of the workshop will be for participants to:
 4. Create new research problems, based on the discussions during the workshop, finding the underlying causes and solutions for common failure cases
 
 
-### Submissions: ###
+##### Submissions: #####
 
-#### Topics: ####
+###### Topics: ######
 - Failure "stories": a description of a failure situation in robot grasping and manipulation that can illustrate a class of problems in this area. (Potential) solutions 
   can be included and supporting media (video) is encouraged.
 - Solutions to common failures causes in robot grasping and manipulation (e.g. slippage, collisions with the environment, bad calibration, etc.)
 - Benchmarking in manipulation: Quantifying different sources of failure in robot grasping and manipulation
 
-Format: Max 1 page abstract, IEEE style + 1 PowerPoint slide, optional video. Send to: [failtograsp@gmail.com](mailto:failtograsp@gmail.com)
+###### Format: ######
+ Max 1 page abstract, IEEE style + 1 PowerPoint slide, optional video. Send to: [failtograsp@gmail.com](mailto:failtograsp@gmail.com)
 
-Submission deadline: September 30th 2020
+**Submission deadline:** September 30th 2020
 
 
 #### Organizers: ####
 Joao Bimbo, Yale University
+
 Giulia Vezzani, DeepMind
+
 Kensuke Harada, Osaka University
+
 Dimitrios Kanoulas, University College London
 
 Email organizers at [failtograsp@gmail.com](mailto:failtograsp@gmail.com)
