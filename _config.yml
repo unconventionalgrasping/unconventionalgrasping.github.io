@@ -37,7 +37,9 @@ socialImageSrcTwitter: "/img/seo/fmark.jpg"
 socialImageSrcFacebook: "/img/seo/fmark.jpg"
 
 # Documents
-c4pUrl: "https://docs.google.com/forms/d/e/1FAIpQLSdL80eFW_E_u2Lxh6EtlvDFLHRn1uA4Sy7DHuNtjs4cZrz5GQ/viewform?usp=sf_link"
+#c4pUrl: "https://docs.google.com/forms/d/e/1FAIpQLSdL80eFW_E_u2Lxh6EtlvDFLHRn1uA4Sy7DHuNtjs4cZrz5GQ/viewform?usp=sf_link"
+c4pUrl: "https://failtograsp.github.io/blog/cfp"
+
 c4sponsorsUrl: "/assets/call.pdf"
 
 
