@@ -46,7 +46,7 @@ c4sponsorsUrl: "/assets/call.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/objectives", text: "Objectives"}
+ - {permalink: "/blog/objectives", text: "objectives"}
  - {permalink: "/blog/cfp", text: "Call for Contributions"}
  - {permalink: "/blog/", text: "News"}
  - {permalink: "/schedule/", text: "Schedule"}
@@ -70,7 +70,8 @@ eventDate: "Workshop at IROS 2020"
 typeoutTextValues: '"ases", "auses"'
 typeoutFallback: "a(u)ses"
 heroButtons:
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdL80eFW_E_u2Lxh6EtlvDFLHRn1uA4Sy7DHuNtjs4cZrz5GQ/viewform?usp=sf_link", text: "Contribute"}
+ - {link: "https://failtograsp.github.io/blog/cfp", text: "Contribute"}
+ #- {link: "https://docs.google.com/forms/d/e/1FAIpQLSdL80eFW_E_u2Lxh6EtlvDFLHRn1uA4Sy7DHuNtjs4cZrz5GQ/viewform?usp=sf_link", text: "Contribute"}
  #- {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
