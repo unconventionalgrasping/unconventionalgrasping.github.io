@@ -55,9 +55,9 @@ navigationLinks:
  #- {permalink: "/logistics/", text: "Logistics"}
  #- {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdL80eFW_E_u2Lxh6EtlvDFLHRn1uA4Sy7DHuNtjs4cZrz5GQ/viewform?usp=sf_link", text: "Contribute"}
+ - {link: "https://failtograsp.github.io/blog/cfp", text: "Contribute"}
 rightNavigationButtons:
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdL80eFW_E_u2Lxh6EtlvDFLHRn1uA4Sy7DHuNtjs4cZrz5GQ/viewform?usp=sf_link", text: "Contribute"}
+ - {link: "https://failtograsp.github.io/blog/cfp", text: "Contribute"}
 
 #Banner block
 bannerImage: "iros2020banner.png"
