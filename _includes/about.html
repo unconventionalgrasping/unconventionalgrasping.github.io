@@ -14,9 +14,7 @@
                         <h5>{{ about.title }}</h5>
                         <img class="img-circle" src="{{ site.baseurl }}/img/about-section/{{ about.image }}" height="128" width="128" alt="{{ about.title }}">
                         <p>{{ about.text }}</p>
-                    </div>
-                  <iframe width="420" height="315" src="http://www.youtube.com/embed/GoKNCg-GRLE" frameborder="0" allowfullscreen></iframe>
-  
+                    </div>  
                 </div>
                 {% assign animationDelay = animationDelay | plus:500 %}
                 {% assign check = forloop.index | modulo:2 %}
@@ -24,6 +22,7 @@
                 {% endfor %}
             </div>
         </div>
+        <iframe width="420" height="315" src="http://www.youtube.com/embed/GoKNCg-GRLE" frameborder="0" allowfullscreen></iframe>
     </div>
 </section>
 <!-- End About Section -->
