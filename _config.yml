@@ -1,6 +1,7 @@
 # Plugins
 gems:
 - jekyll-sitemap
+- jekyll-youtube
 safe: false
 
 # Build Settings
