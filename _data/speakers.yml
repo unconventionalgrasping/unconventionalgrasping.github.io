@@ -110,3 +110,25 @@
   rockstar: false
   social: 
     - {name: "site", link: "https://www.nasa.gov"}
+-
+  id: 16
+  name: "Toni"
+  surname: "Oliver"
+  company: "Shadow Robt Company"
+  title: ""
+  bio: ""
+  thumbnailUrl: ""
+  rockstar: false
+  social: 
+    - {name: "site", link: "https://www.shadowrobot.com"}
+-
+  id: 17
+  name: "Dieter"
+  surname: "Fox"
+  company: "University of Washington/NVIDIA"
+  title: ""
+  bio: ""
+  thumbnailUrl: ""
+  rockstar: false
+  social: 
+    - {name: "site", link: "https://homes.cs.washington.edu/~fox/"}
