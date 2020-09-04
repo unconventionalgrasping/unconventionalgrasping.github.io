@@ -60,16 +60,6 @@
         #sessionIds: [999]
     #}
     - {
-        #startTime: "16:30",
-        #endTime: "17:30",
-        sessionIds: [100]
-    }
-    - {
-        #startTime: "17:30",
-        #endTime: "18:00",
-        sessionIds: [101]
-    }
-    - {
         #startTime: "17:30",
         #endTime: "18:00",
         sessionIds: [009]
@@ -79,3 +69,13 @@
         #endTime: "18:00",
         sessionIds: [010]
     }
+    - {
+        #startTime: "16:30",
+        #endTime: "17:30",
+        sessionIds: [100]
+    }
+    - {
+        #startTime: "17:30",
+        #endTime: "18:00",
+        sessionIds: [101]
+    }    
