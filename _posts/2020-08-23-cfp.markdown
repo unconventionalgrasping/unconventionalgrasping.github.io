@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Call for Contributions"
-date:   2020-01-19 09:00:00
+date:   2020-09-30 09:00:00
 isStaticPost: false
 ---
 
@@ -30,7 +30,8 @@ and manipulation. The main aim of the workshop will be for participants to:
 ###### Format: ######
  Max 1 page abstract, IEEE style + 1 PowerPoint slide, optional video. Send to: [failtograsp@gmail.com](mailto:failtograsp@gmail.com)
 
-**Submission deadline:** September 30th 2020
+~~ **Submission deadline:** September 30th 2020 ~~
+**New Submission deadline:** October 15th 2020 ~~
 
 
 #### Organizers: ####
