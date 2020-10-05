@@ -1,7 +1,7 @@
 -
   id: 001
   title: "Welcome"
-  description: "Small introduction to workshop objectives and overview of the schedule"
+  description: "Introduction to workshop objectives and overview of the schedule"
   subtype: presentation
   speakers: [0,1,2,3]
   #language: en
@@ -18,7 +18,7 @@
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 -
   id: 003
-  title: "Sensory motor search for learning and recovering from failure in robotic manipulation"
+  title: "The Greatest Teacher, Failure Is"
   description: "TBD"
   subtype: presentation
   speakers: [10]
@@ -47,7 +47,7 @@
   speakers: [12]
 -
   id: 006
-  title: "TBD"
+  title: "Grasping failures/challenges: the iCub Perspective"
   description: "TBD"
   subtype: presentation
   speakers: [13]
