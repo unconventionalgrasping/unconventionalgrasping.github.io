@@ -4,7 +4,7 @@
   surname: "Harada"
   company: "Osaka University"
   title: "Professor"
-  bio: "Prof. Kensuke Harada received Ph.D. from Graduate School of Engineering, Kyoto University in 1997. From 1997 to 2002, he worked as a research associate at Hiroshima University. From 2002 to 2016, he was a research scientist at National Institute of Advanced Industrial Science and Technology (AIST). For one year from 2005 to 2006, he was a visiting scholar at Computer Science Department of Stanford University. Since 2016, he is a professor at Graduate School of Engineering Science, Osaka University."
+  bio: "" #Prof. Kensuke Harada received Ph.D. from Graduate School of Engineering, Kyoto University in 1997. From 1997 to 2002, he worked as a research associate at Hiroshima University. From 2002 to 2016, he was a research scientist at National Institute of Advanced Industrial Science and Technology (AIST). For one year from 2005 to 2006, he was a visiting scholar at Computer Science Department of Stanford University. Since 2016, he is a professor at Graduate School of Engineering Science, Osaka University."
   thumbnailUrl: harada2.png
   rockstar: true
   social: 
@@ -16,7 +16,7 @@
   surname: "Kanoulas"
   company: "University College London"
   title: "Lecturer"
-  bio: "Dr. Dimitrios Kanoulas is a Lecturer (Assistant Professor) in Robotics and Computation at the University College London (UCL), Department of Computer Science.   He is leading the Robot Perception and Learning (RPL) lab of the Autonomous System Research Group at UCL, working in the field of perception and learning for mobile/articulated robots, and in particular, he is developing new estimation and planning algorithms for robots that navigate, locomote, and manipulate in uncertain natural environments.  Before UCL, he was a senior postdoctoral researcher at the Humanoids & Human Centered Mechatronics (HHCM) Lab of the Department of Advanced Robotics Department at the Istituto Italiano di Tecnologia (IIT), working with Dr. Nikos Tsagarakis and Prof. Darwin Caldwell on the WALK-MAN, CogImon, CENTAURO, and Pholus projects.  He completed his Ph.D. at the Geometric and Physical Computing (GPC) Lab in the College of Computer and Information Science at Northeastern University, advised by Prof. Marsette Vona. "
+  bio: "" #Dr. Dimitrios Kanoulas is a Lecturer (Assistant Professor) in Robotics and Computation at the University College London (UCL), Department of Computer Science.   He is leading the Robot Perception and Learning (RPL) lab of the Autonomous System Research Group at UCL, working in the field of perception and learning for mobile/articulated robots, and in particular, he is developing new estimation and planning algorithms for robots that navigate, locomote, and manipulate in uncertain natural environments.  Before UCL, he was a senior postdoctoral researcher at the Humanoids & Human Centered Mechatronics (HHCM) Lab of the Department of Advanced Robotics Department at the Istituto Italiano di Tecnologia (IIT), working with Dr. Nikos Tsagarakis and Prof. Darwin Caldwell on the WALK-MAN, CogImon, CENTAURO, and Pholus projects.  He completed his Ph.D. at the Geometric and Physical Computing (GPC) Lab in the College of Computer and Information Science at Northeastern University, advised by Prof. Marsette Vona. "
   thumbnailUrl: dimitris.jpg
   rockstar: false
   social: 
@@ -28,7 +28,7 @@
   surname: "Vezzani"
   company: "DeepMind"
   title: "Research Engineer"
-  bio: "Giulia Vezzani is a Research Engineer working in the Robotics Lab at DeepMind. Her main interests are in grasping, manipulation and Reinforcement Learning. She was previously a Postdoctoral Research at the iCub Facility of the Istituto Italiando di Tecnologia (IIT) working in the Humanoid Sensing and Perception team. Previously, Giulia received her Ph.D from IIT and Universita' degli Studi di Genova in Advanced and Humanoid robotics, with a dissertation on how to combine visual and tactile information for autonomous manipulation. "
+  bio: "" #Giulia Vezzani is a Research Engineer working in the Robotics Lab at DeepMind. Her main interests are in grasping, manipulation and Reinforcement Learning. She was previously a Postdoctoral Research at the iCub Facility of the Istituto Italiando di Tecnologia (IIT) working in the Humanoid Sensing and Perception team. Previously, Giulia received her Ph.D from IIT and Universita' degli Studi di Genova in Advanced and Humanoid robotics, with a dissertation on how to combine visual and tactile information for autonomous manipulation. "
   thumbnailUrl: giulia.jpg
   rockstar: false
   social: 
@@ -39,7 +39,7 @@
   surname: "Bimbo"
   company: "Yale University"
   title: "Postdoctoral Associate"
-  bio: "Joao Bimbo is a Postdoctoral Associate at the GrabLab, at the Yale School of Engineering & Applied Science. He has an MSc in Electrical Engineering from the University of Coimbra (Portugal) and a PhD in Robotics from King’s College London (UK). He was previously a postdoc the Italian Institute of Technology. His research interests are robot grasping and manipulation, tactile sensing and rehabilitation robots. "
+  bio: "" #Joao Bimbo is a Postdoctoral Associate at the GrabLab, at the Yale School of Engineering & Applied Science. He has an MSc in Electrical Engineering from the University of Coimbra (Portugal) and a PhD in Robotics from King’s College London (UK). He was previously a postdoc the Italian Institute of Technology. His research interests are robot grasping and manipulation, tactile sensing and rehabilitation robots. "
   thumbnailUrl: joao.jpg
   rockstar: false
   social: 
@@ -50,7 +50,7 @@
   surname: "Bohg"
   company: "Stanford University"
   title: "Professor"
-  bio: "Jeannette Bohg is a Professor for Robotics at Stanford University and the director the Interactive Perception and Robot Learning Lab. Her research lies at the intersection of Robotics, Machine Learning and Computer Vision applied to problems in Robotic Grasping and Manipulation."
+  bio: "" #Jeannette Bohg is a Professor for Robotics at Stanford University and the director the Interactive Perception and Robot Learning Lab. Her research lies at the intersection of Robotics, Machine Learning and Computer Vision applied to problems in Robotic Grasping and Manipulation."
   thumbnailUrl: jbohg.png
   rockstar: true
   social: 
@@ -61,7 +61,7 @@
   surname: "Leitner"
   company: "Queensland University of Technology"
   title: "Researcher"
-  bio: "Juxi Leitner is a researcher at the Queensland University of Technology where he leads the Manipulation efforts of the Australian Centre for Robotic Vision (ACRV) and the co-founder of the startup LYRO Robotics. His research focuses on the intersection of Robotics, Computer Vision and Artificial Intelligence."
+  bio: "" #Juxi Leitner is a researcher at the Queensland University of Technology where he leads the Manipulation efforts of the Australian Centre for Robotic Vision (ACRV) and the co-founder of the startup LYRO Robotics. His research focuses on the intersection of Robotics, Computer Vision and Artificial Intelligence."
   thumbnailUrl: jleitner.png
   rockstar: false
   social: 
@@ -72,7 +72,7 @@
   surname: "Goldberg"
   company: "UC Berkeley"
   title: "Professor"
-  bio: "Ken Goldberg is the William S. Floyd Jr. Distinguished Chair in Engineering at UC Berkeley. Ken is on the Editorial Board of the journal Science Robotics, served as Chair of the Industrial Engineering and Operations Research Department, and co-founded the IEEE Transactions on Automation Science and Engineering."
+  bio: "" #Ken Goldberg is the William S. Floyd Jr. Distinguished Chair in Engineering at UC Berkeley. Ken is on the Editorial Board of the journal Science Robotics, served as Chair of the Industrial Engineering and Operations Research Department, and co-founded the IEEE Transactions on Automation Science and Engineering."
   thumbnailUrl: kgoldberg.jpg
   rockstar: true
   social: 
@@ -83,7 +83,7 @@
   surname: "Natale"
   company: "Istituto Italiano di Tecnologia (IIT)"
   title: "Tenured Senior Researcher"
-  bio: "Lorenzo Natale is Tenured Senior Researcher at the Italian Institute of Technology. He has contributed to the development of various humanoid platforms. He was one of the main contributors to the design and development of the iCub platform and he has been leading the development of the iCub software architecture and the YARP middleware. His research interests range from vision and tactile sensing to software architectures for robotics."
+  bio: "" #Lorenzo Natale is Tenured Senior Researcher at the Italian Institute of Technology. He has contributed to the development of various humanoid platforms. He was one of the main contributors to the design and development of the iCub platform and he has been leading the development of the iCub software architecture and the YARP middleware. His research interests range from vision and tactile sensing to software architectures for robotics."
   thumbnailUrl: lnatale.jpg
   rockstar: true
   social: 
@@ -94,7 +94,7 @@
   surname: "Platt"
   company: "Northeastern University"
   title: "Assistant Professor"
-  bio: "Robert Platt Jr. is an Assistant Professor at the Khoury College of Computer Sciences of  Northeastern University. His research interests are robotics and machine learning with a focus on perception, planning, and control in uncertain environments. I am particularly interested in applications to robot manipulation."
+  bio: "" #Robert Platt Jr. is an Assistant Professor at the Khoury College of Computer Sciences of  Northeastern University. His research interests are robotics and machine learning with a focus on perception, planning, and control in uncertain environments. I am particularly interested in applications to robot manipulation."
   thumbnailUrl: rplatt.jpg
   rockstar: true
   social: 
