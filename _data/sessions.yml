@@ -8,8 +8,14 @@
   #complexity: "Intermediate" 
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 -
+  id: 201
+  title: "Live session"
+  description: "Q&A session"
+  subtype: presentation
+  speakers: [0,1,2,3,13,14,15,16]  
+-
   id: 002
-  title: "In-hand Pose Estimation using Multi-Modal Sensing"
+  title: "Error Identification and Recovery in Picking and Assembly Tasks"
   description: "In-hand Pose Estimation using Multi-Modal Sensing"
   subtype: presentation
   speakers: [0]
@@ -35,7 +41,7 @@
   subtype: break
 -
   id: 004
-  title: "TBD"
+  title: "Failing to Grasp: Challenges of and Opportunities for Research into robot grasping and manipulation"
   description: "TBD"
   subtype: presentation
   speakers: [11]
