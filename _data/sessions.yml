@@ -25,6 +25,7 @@
   description: ""
   subtype: presentation
   speakers: [0]
+  video: "https://drive.google.com/file/d/1kLpdrUpfC26BoQfNvdbrzrnN1kAd1DSx/preview"
   #language: en
   #complexity: "Intermediate" 
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
@@ -34,6 +35,7 @@
   description: "TBD"
   subtype: presentation
   speakers: [10]
+  video: "https://drive.google.com/file/d/1rztm-zIetxTu15xgq73C1_ZTLA2bvYKj/preview"
   #language: en
   #complexity: "Intermediate" 
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
@@ -51,6 +53,7 @@
   description: "TBD"
   subtype: presentation
   speakers: [11]
+  video: "https://drive.google.com/file/d/1QMMCN0ay8uz4Bmg0WmUYt6jcwR4rdKkY/preview"
 -
   id: 005
   title: "Addressing Persistent Failures in Warehouse Grasping"
@@ -70,16 +73,18 @@
   description: "TBD"
   subtype: presentation
   speakers: [14]
+  video: "https://drive.google.com/file/d/1gs1dSAjuaRdMZmI8rnIFcE1V7rvffq8m/preview"
 -
   id: 008
   title: "Robust Manipulation for Remote Operations"
   description: "TBD"
   subtype: presentation
   speakers: [15]
+  video: "https://drive.google.com/file/d/1c1rMFPwvHu3gqk6hpXuxG3ADxgMeA4Fx/preview"
 -
   id: 009
   title: "Learning from failures in grasping and manipulation with dexterous hands and smart grasping"
-  description: "TBD"
+  description: "https://drive.google.com/file/d/1f1QFuHlIL38TI9TDYQuyRVdIRydWVjT6/preview"
   subtype: presentation
   speakers: [16]
 -
