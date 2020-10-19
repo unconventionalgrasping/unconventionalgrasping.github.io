@@ -63,7 +63,7 @@
   description: "TBD"
   subtype: presentation
   speakers: [13]
-  presentation: "https://drive.google.com/file/d/1FYA6y4HZ-ZbeP7O9n18Peo5GKm1aN6Er/view"
+  video: "https://drive.google.com/file/d/1FYA6y4HZ-ZbeP7O9n18Peo5GKm1aN6Er/view"
 -
   id: 007
   title: "End-to-end Learning in Spatial Action Spaces"
