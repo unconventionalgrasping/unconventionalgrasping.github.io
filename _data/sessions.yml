@@ -14,9 +14,15 @@
   subtype: presentation
   speakers: [0,1,2,3,13,14,15,16]  
 -
+  id: 202
+  title: "Live session"
+  description: "Q&A session"
+  subtype: presentation
+  speakers: [0,1,2,3,10,11,12,17]  
+-
   id: 002
   title: "Error Identification and Recovery in Picking and Assembly Tasks"
-  description: "In-hand Pose Estimation using Multi-Modal Sensing"
+  description: ""
   subtype: presentation
   speakers: [0]
   #language: en

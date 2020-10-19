@@ -117,7 +117,7 @@
   company: "Shadow Robt Company"
   title: ""
   bio: ""
-  thumbnailUrl: "empty.jpg"
+  thumbnailUrl: "toni.png"
   rockstar: false
   social: 
     - {name: "site", link: "https://www.shadowrobot.com"}
