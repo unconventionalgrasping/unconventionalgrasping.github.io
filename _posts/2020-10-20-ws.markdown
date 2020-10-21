@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Call for Contributions"
+date:   2020-10-20 09:00:00
+isStaticPost: false
+---
+
+#### Workshop announcement ####
+##### Live Session: #####
+Due to the on-demand nature of IROS2020 and to accommodate to the different time-zones, we are holding two separate live sessions.
+
+
+**October 26th** 15:00-19:00 UTC
+**October 28th** 00:00-04:00 UTC
+
+In the first 2 hours of each sessions we will replay the videos, which you can also watch [here](schedule/).
+and presentation of contributions
+
+
+
+
+
+#### Organizers: ####
+Joao Bimbo, Yale University
+
+Giulia Vezzani, DeepMind
+
+Kensuke Harada, Osaka University
+
+Dimitrios Kanoulas, University College London
+
+Email organizers at [failtograsp@gmail.com](mailto:failtograsp@gmail.com)
