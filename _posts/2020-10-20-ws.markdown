@@ -16,10 +16,11 @@ Due to the on-demand nature of IROS2020 and to accommodate to the different time
 
 In the first 2 hours of each sessions we will replay the videos, which you can also watch [**here**](/../schedule/).
 
+These will be followed by a 2 hour live session with Q&A to the speakers and round-table discussion.
 
 
 
-accepted are:
+During the live session the following accepted contributions will also be presented and discussed:
 1. Xinghao Zhu, Yongxiang Fan, Shiyu Jin, Changhao Wang, and Masayoshi Tomizuka, ["Why Does Robotic Dexterous Hand Grasp Fail?"](https://drive.google.com/file/d/1TyFzacBYUzEcFkIJfihGNeYRXkcS8op7/view?usp=sharing)
 2. Alberto Camacho, Jacob Varley, Andy Zeng, Deepali Jain, Atil Iscen, Dmitry Kalshnikov, ["Disentangled Planning and Control in Vision Based Robotics via Reward Machines (Extended Abstract)"](https://drive.google.com/file/d/1GPDcV7pISGtBxKaMk_XjHWEz7vk0CVHh/view?usp=sharing)
 3. Roberto Meattini, Vincenzo Salzillo, Andrea Gigli, Claudio Melchiorri, and Claudio Castellini, ["A remarkable failure story in close human-robot interaction: advanced myocontrol of prosthetic hands"](https://drive.google.com/file/d/1VLpYBmUTzZoDDvy87xSD9ani5cbGtI_1/view?usp=sharing)
