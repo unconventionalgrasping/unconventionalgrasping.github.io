@@ -56,10 +56,11 @@
   video: "https://drive.google.com/file/d/1QMMCN0ay8uz4Bmg0WmUYt6jcwR4rdKkY/preview"
 -
   id: 005
-  title: "Addressing Persistent Failures in Warehouse Grasping"
+  title: "Sequential Failures in Robot Bin Picking"
   description: "TBD"
   subtype: presentation
   speakers: [12]
+  video: "https://drive.google.com/file/d/11VZsHynH6p5LekxLpBZuo0kaJn_cBC_-/preview"
 -
   id: 006
   title: "Grasping failures/challenges: the iCub Perspective"
