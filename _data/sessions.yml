@@ -88,13 +88,14 @@
   description: "TBD"
   subtype: presentation
   speakers: [16]
-  video: "https://drive.google.com/file/d/1f1QFuHlIL38TI9TDYQuyRVdIRydWVjT6/view?usp=sharing"
+  video: "https://drive.google.com/file/d/1f1QFuHlIL38TI9TDYQuyRVdIRydWVjT6/preview"
 -
   id: 010
-  title: "TBD"
+  title: "Grasp Failures in Model-Based and Mode-Free Manipulation"
   description: "TBD"
   subtype: presentation
   speakers: [17]
+  video: "https://drive.google.com/file/d/1H8A9gTOGlxadi80hfTNaYgwum3z5AtxL/preview"
 -  
   id: 100
   title: "Round-table discussion / interactive session"
