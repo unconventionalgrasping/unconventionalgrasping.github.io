@@ -15,14 +15,15 @@ Due to the on-demand nature of IROS2020 and to accommodate to the different time
 ####### **October 28th** 00:00-04:00 UTC #######
 
 In the first 2 hours of each sessions we will replay the videos, which you can also watch [**here**](/../schedule/).
-and presentation of contributions
+
+
 
 
 accepted are:
-1. Xinghao Zhu, Yongxiang Fan, Shiyu Jin, Changhao Wang, and Masayoshi Tomizuka, "Why Does Robotic Dexterous Hand Grasp Fail?"
-2. Alberto Camacho, Jacob Varley, Andy Zeng, Deepali Jain, Atil Iscen, Dmitry Kalshnikov, "Disentangled Planning and Control in Vision Based Robotics via Reward Machines (Extended Abstract)"
-3. Roberto Meattini, Vincenzo Salzillo, Andrea Gigli, Claudio Melchiorri, and Claudio Castellini, "A remarkable “failure story” in close human-robot interaction: advanced myocontrol of prosthetic hands"
-4. Benjamin Panreck, Simon Untergasser, Manfred Hild, "Model-free Monocular Visual Servoing"
+1. Xinghao Zhu, Yongxiang Fan, Shiyu Jin, Changhao Wang, and Masayoshi Tomizuka, ["Why Does Robotic Dexterous Hand Grasp Fail?"](https://drive.google.com/file/d/1TyFzacBYUzEcFkIJfihGNeYRXkcS8op7/view?usp=sharing)
+2. Alberto Camacho, Jacob Varley, Andy Zeng, Deepali Jain, Atil Iscen, Dmitry Kalshnikov, ["Disentangled Planning and Control in Vision Based Robotics via Reward Machines (Extended Abstract)"](https://drive.google.com/file/d/1GPDcV7pISGtBxKaMk_XjHWEz7vk0CVHh/view?usp=sharing)
+3. Roberto Meattini, Vincenzo Salzillo, Andrea Gigli, Claudio Melchiorri, and Claudio Castellini, ["A remarkable failure story in close human-robot interaction: advanced myocontrol of prosthetic hands"](https://drive.google.com/file/d/1VLpYBmUTzZoDDvy87xSD9ani5cbGtI_1/view?usp=sharing)
+4. Benjamin Panreck, Simon Untergasser, Manfred Hild, ["Model-free Monocular Visual Servoing"](https://drive.google.com/file/d/12VNfTDC7BmKoYg1NtCyoo0o4flKteab2/view?usp=sharing)
 5. Alex Mitrevski and Paul G. Ploger, "Lack of Understanding of Objects as a Cause of Manipulation Failures"
 6. Maximo A. Roa, Werner Friedl, Ashok M. Sundaram, "Robustness and Performance under Failures in the CLASH Hand"
 7. Lima Agnel Tony, Shuvrangshu Jana, Debasish Ghose, "Why it failed to grab the ball?"
