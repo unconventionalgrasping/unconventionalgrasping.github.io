@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Call for Contributions"
+title:  "Live sessions"
 date:   2020-10-20 09:00:00
 isStaticPost: false
 ---
