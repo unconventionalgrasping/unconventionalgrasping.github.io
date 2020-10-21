@@ -6,13 +6,13 @@ isStaticPost: false
 ---
 
 #### Workshop announcement ####
-##### Live Session: #####
+##### Live Sessions: #####
 Due to the on-demand nature of IROS2020 and to accommodate to the different time-zones, we are holding two separate live sessions.
 
 
-**October 26th** 15:00-19:00 UTC
+###### **October 26th** 15:00-19:00 UTC ###### 
 
-**October 28th** 00:00-04:00 UTC
+###### **October 28th** 00:00-04:00 UTC ###### 
 
 In the first 2 hours of each sessions we will replay the videos, which you can also watch [here](/../schedule/).
 and presentation of contributions
