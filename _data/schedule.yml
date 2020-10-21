@@ -1,6 +1,6 @@
 - 
   date: "2014-10-26"
-  dateReadable: "October 26 (London Time)"
+  dateReadable: "October 26 (UTC Time)"
   tracks: 
     - {title: "Talk", color: "#90be4e"}
   timeslots:
@@ -46,8 +46,8 @@
     }
 
 - 
-  date: "2014-10-27"
-  dateReadable: "October 27 (London Time)"
+  date: "2014-10-28"
+  dateReadable: "October 28 (UTC Time)"
   tracks: 
     - {title: "Talk", color: "#90be4e"}
   timeslots:
