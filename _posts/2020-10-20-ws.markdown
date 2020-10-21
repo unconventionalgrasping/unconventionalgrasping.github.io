@@ -24,9 +24,9 @@ accepted are:
 2. Alberto Camacho, Jacob Varley, Andy Zeng, Deepali Jain, Atil Iscen, Dmitry Kalshnikov, ["Disentangled Planning and Control in Vision Based Robotics via Reward Machines (Extended Abstract)"](https://drive.google.com/file/d/1GPDcV7pISGtBxKaMk_XjHWEz7vk0CVHh/view?usp=sharing)
 3. Roberto Meattini, Vincenzo Salzillo, Andrea Gigli, Claudio Melchiorri, and Claudio Castellini, ["A remarkable failure story in close human-robot interaction: advanced myocontrol of prosthetic hands"](https://drive.google.com/file/d/1VLpYBmUTzZoDDvy87xSD9ani5cbGtI_1/view?usp=sharing)
 4. Benjamin Panreck, Simon Untergasser, Manfred Hild, ["Model-free Monocular Visual Servoing"](https://drive.google.com/file/d/12VNfTDC7BmKoYg1NtCyoo0o4flKteab2/view?usp=sharing)
-5. Alex Mitrevski and Paul G. Ploger, "Lack of Understanding of Objects as a Cause of Manipulation Failures"
-6. Maximo A. Roa, Werner Friedl, Ashok M. Sundaram, "Robustness and Performance under Failures in the CLASH Hand"
-7. Lima Agnel Tony, Shuvrangshu Jana, Debasish Ghose, "Why it failed to grab the ball?"
+5. Alex Mitrevski and Paul G. Ploger, ["Lack of Understanding of Objects as a Cause of Manipulation Failures"](https://drive.google.com/file/d/17ORCb8AsQMLQVavO_4reRR0p_sqYx2Ba/view?usp=sharing)
+6. Maximo A. Roa, Werner Friedl, Ashok M. Sundaram, ["Robustness and Performance under Failures in the CLASH Hand"](https://drive.google.com/file/d/1OzazbCuhwS32dpx5wnXIv-jm5noCyHsm/view?usp=sharing)
+7. Lima Agnel Tony, Shuvrangshu Jana, Debasish Ghose, ["Why it failed to grab the ball?"](https://drive.google.com/file/d/1mJgUh3PqZN-2IbTOuyXpvH43apWhUCFb/view?usp=sharing)
 8. Neel Doshi, Orion Taylor, and Alberto Rodriguez, "Pivoting a Partially Unknown Object about an Environmental Contact"
 9. Caris Moses and Jane Shi, "Integrating State Estimation and Perception for Picking"
 10. Anjali Harish Asar, Stephanie Hughes, Nigel Swenson, Xiaoli Fern, Ravi Balasubramanian and Cindy Grimm, "Structured Noise to Increase the Reliability of Grasping"
