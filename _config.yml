@@ -48,9 +48,10 @@ c4sponsorsUrl: "/assets/call.pdf"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/objectives", text: "objectives"}
- - {permalink: "/blog/cfp", text: "Call for Contributions"}
+ #- {permalink: "/blog/cfp", text: "Call for Contributions"}
+ - {permalink: "/blog/ws", text: "Contributions"}
  - {permalink: "/blog/", text: "News"}
- - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/schedule/", text: "Schedule & Videos"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Organizers"} 
  #- {permalink: "/logistics/", text: "Logistics"}
