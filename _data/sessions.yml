@@ -4,6 +4,7 @@
   description: "Introduction to workshop objectives and overview of the schedule"
   subtype: presentation
   speakers: [0,1,2,3]
+  video: "https://drive.google.com/file/d/1v8FO0J2-Vus_VEBD3clWQCy36d7Rel3G/preview"
   #language: en
   #complexity: "Intermediate" 
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
