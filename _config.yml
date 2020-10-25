@@ -54,12 +54,12 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Schedule & Videos"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Organizers"} 
- #- {permalink: "/logistics/", text: "Logistics"}
+ - {permalink: "https://yale.zoom.us/s/94133362140", text: "Join Live Session (Zoom)"}
  #- {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "https://failtograsp.github.io/blog/cfp", text: "Contribute"}
+ - {link: "https://yale.zoom.us/s/94133362140", text: "Join Live Session (Zoom)"}
 rightNavigationButtons:
- - {link: "https://failtograsp.github.io/blog/cfp", text: "Contribute"}
+ - {link: "https://yale.zoom.us/s/94133362140", text: "Join Live Session (Zoom)"}
 
 #Banner block
 bannerImage: "iros2020banner.png"
