@@ -54,12 +54,12 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Schedule & Videos"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Organizers"} 
- - {permalink: "https://yale.zoom.us/s/94133362140", text: "Join Live Session (Zoom)"}
+ - {permalink: "https://yale.zoom.us/j/94133362140", text: "Join Live Session (Zoom)"}
  #- {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "https://yale.zoom.us/s/94133362140", text: "Join Live Session (Zoom)"}
+ - {link: "https://yale.zoom.us/j/94133362140", text: "Join Live Session (Zoom)"}
 rightNavigationButtons:
- - {link: "https://yale.zoom.us/s/94133362140", text: "Join Live Session (Zoom)"}
+ - {link: "https://yale.zoom.us/j/94133362140", text: "Join Live Session (Zoom)"}
 
 #Banner block
 bannerImage: "iros2020banner.png"
@@ -72,7 +72,7 @@ eventDate: "Workshop at IROS 2020"
 typeoutTextValues: '"ases", "auses"'
 typeoutFallback: "a(u)ses"
 heroButtons:
- - {link: "https://yale.zoom.us/s/94133362140", text: "Join Live Session (Zoom)"}
+ - {link: "https://yale.zoom.us/j/94133362140", text: "Join Live Session (Zoom)"}
  #- {link: "https://docs.google.com/forms/d/e/1FAIpQLSdL80eFW_E_u2Lxh6EtlvDFLHRn1uA4Sy7DHuNtjs4cZrz5GQ/viewform?usp=sf_link", text: "Contribute"}
  #- {permalink: "/#tickets", text: "Buy tickets"}
 
