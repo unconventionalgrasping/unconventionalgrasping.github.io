@@ -14,6 +14,8 @@
   description: "Q&A to the speakers; Presentation of author contribution, Round-table discussion"
   subtype: presentation
   speakers: [0,1,2,3,13,14,15,16]  
+  video: "https://drive.google.com/file/d/1z1UIH7lsum14IVRDWPTA6msAujaKGj3o/preview"
+
 -
   id: 202
   title: "Live session"
