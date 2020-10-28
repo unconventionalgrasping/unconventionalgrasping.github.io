@@ -54,7 +54,7 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Schedule & Videos"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Organizers"} 
- - {permalink: "https://yale.zoom.us/j/94133362140", text: "Join Live Session (Zoom)"}
+ #- {permalink: "https://yale.zoom.us/j/94133362140", text: "Join Live Session (Zoom)"}
  #- {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
  - {link: "/schedule/", text: "Watch Videos"}
