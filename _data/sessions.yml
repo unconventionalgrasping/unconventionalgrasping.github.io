@@ -23,6 +23,7 @@
   description: "Q&A to the speakers; Presentation of author contribution, Round-table discussion"
   subtype: presentation
   speakers: [0,1,2,3,10,11,12,17]  
+  video: "https://www.youtube.com/embed/9kHOl6z2KgM"
 -
   id: 002
   title: "Error Identification and Recovery in Picking and Assembly Tasks"
