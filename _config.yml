@@ -88,7 +88,7 @@ aboutBlock:
  #- {title: "Create", image: "create.png", text: "new research problems."}
 
 # Statistic Block
-statisticBlockImage: "back11.jpg"
+statisticBlockImage: "back1.jpg"
 statisticBlock:
  - {count: "8", specialCharacter: " ", info: "Speakers", detail: "from industry and academia"}
  - {count: "50", specialCharacter: "+", info: "attendees", detail: ""}
