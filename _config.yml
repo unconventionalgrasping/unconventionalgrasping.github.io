@@ -11,24 +11,24 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "Failure to grasp"
-email: "failtograsp@gmail.com"
-description: "Workshop on failures in robot grasping and manipulation"
+title: "Unconventional Robot Grasping & Manipulation"
+email: "unconventionalgrasping@gmail.com"
+description: "Unconventional Robot Grasping & Manipulation"
 baseurl: "/"
-url: "http://failtograsp.github.io"
+url: "http://unconventionalgrasping.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-157056978-2"
-googleAnalyticsSiteUrl: "http://failtograsp.github.io"
+googleAnalyticsSiteUrl: "http://unconventionalgrasping.github.io"
 #siteVerification: "wedOD5uHWBKVzRU8wudTv5xLFbADLHdm6zhevjNFJw4"
 siteVerification: "x_Z3IS-XxvCTWsIIyVX6Bc3I5_mDrcjBBM859ZZmtb8"
                    
 # Organizer Info
-organizerName: "Joao Bimbo"
-organizerAlternateName: "Joao Bimbo"
+organizerName: "Vatsal Patel"
+organizerAlternateName: "Vatsal Patel"
 organizerDescription: "Others"
-organizerEmail: "failtograsp@gmail.com"
+organizerEmail: "unconventionalgrasping@gmail.com"
 organizerLogo: "/img/seo/fmark.jpg"
-organizerLink: "http://failtograsp.github.io"
+organizerLink: "http://unconventionalgrasping.github.io"
 
 # Head
 metaKeywords: "event, workshop, grasping, robot, robotics, iros, manipulation"
@@ -39,7 +39,7 @@ socialImageSrcFacebook: "/img/seo/fmark.jpg"
 
 # Documents
 #c4pUrl: "https://docs.google.com/forms/d/e/1FAIpQLSdL80eFW_E_u2Lxh6EtlvDFLHRn1uA4Sy7DHuNtjs4cZrz5GQ/viewform?usp=sf_link"
-c4pUrl: "https://failtograsp.github.io/blog/cfp"
+c4pUrl: "https://unconventionalgrasping.github.io/blog/cfp"
 
 c4sponsorsUrl: "/assets/call.pdf"
 
@@ -66,8 +66,8 @@ bannerImage: "iros2020banner.png"
 
 # Hero Block
 heroImage: "white.jpg"
-heroTitle: "Why robots fail to grasp?"
-heroDesc: "Failure c<typeout> in robot manipulation"
+heroTitle: "unconventionalgrasping?"
+heroDesc: "Unconventional Robot Grasping & Manipulation"
 eventDate: "Workshop at IROS 2020"
 typeoutTextValues: '"ases", "auses"'
 typeoutFallback: "a(u)ses"
@@ -78,14 +78,14 @@ heroButtons:
 
 # About Block
 aboutTitle: "About the Workshop"
-aboutAbstract: "This workshop is dedicated to the discussion of failure cases in robotic grasping and manipulation.<br> We will explore the main causes for these failures, and reason about strategies to solve them."
+aboutAbstract: "This workshop is dedicated to the discussion of Unconventional Robot Grasping & Manipulation"
 aboutBlock:
  #- {title: "Speakers", image: "conference.jpg", text: "A range of speakers from backgrounds in academia and industry" }
  #- {title: "Interact", image: "hackathon.jpg", text: "Interact with other participants. Share your failure story with us!" }
  - {title: "Learn", image: "learn.jpg", text: "from the experience of other participants."}
- - {title: "Share", image: "share.png", text: "your unsuccessful ideas, hypotheses, and experiments."}
- - {title: "Network", image: "network.png", text: "with other participants. Join efforts to address common problems."}
- - {title: "Create", image: "create.png", text: "new research problems."}
+ #- {title: "Share", image: "share.png", text: "your unsuccessful ideas, hypotheses, and experiments."}
+ #- {title: "Network", image: "network.png", text: "with other participants. Join efforts to address common problems."}
+ #- {title: "Create", image: "create.png", text: "new research problems."}
 
 # Statistic Block
 statisticBlockImage: "back11.jpg"
@@ -107,10 +107,10 @@ locationBlockTitle: "Location"
 eventLocationName: "TBD"
 eventLocationLink: "TBD"
 eventStreetAddress: "TBD"
-eventAddressLocality: "Las Vegas"
-eventAddressLocalityRegion: "Nevada"
+eventAddressLocality: "IROS"
+eventAddressLocalityRegion: "Kyoto"
 eventPostalCode: "79000"
-eventAddressCountry: "USA"
+eventAddressCountry: "Japan"
 eventStartTime: "2020-10-24T10:00"
 eventDoorTime: "09:00"
 eventEndTime: "2020-10-24T20:00"
@@ -130,8 +130,8 @@ venueFeatures: ["550,000 sq. ft.", "The two largest ballrooms in the world", "10
 # Tweets Feed Block
 tweetsFeedImage: "back10.jpg"
 tweetsFeedTitle: "Follow us"
-twitterHashTag: "failtograsp_iros"
-twitterFeed: "http://twitter.com/failtograsp"
+twitterHashTag: "unconventionalgrasping_iros"
+twitterFeed: "http://twitter.com/unconventionalgrasping"
 
 # Partners Block
 organizersTitle: "Organizers"
@@ -189,7 +189,7 @@ ticketsOffers:
 # Footer
 socialLinks:
 # - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=failtograsp", icon: "twitter"}
+ - {link: "https://twitter.com/intent/user?screen_name=unconventionalgrasping", icon: "twitter"}
 # - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
@@ -201,7 +201,7 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:failtograsp@gmail.com", text: "failtograsp@gmail.com"}
+   - {link: "mailto:unconventionalgrasping@gmail.com", text: "unconventionalgrasping@gmail.com"}
  -
   title: "FAQ"
   links:
@@ -210,7 +210,7 @@ footerBlocks:
 # Blog
 blogTitle: "Latest news"
 blogCommentsEnabled: true
-discusShortName: "failtograsp"
+discusShortName: "unconventionalgrasping"
 
 # Speakers List Block
 showSessions: true
