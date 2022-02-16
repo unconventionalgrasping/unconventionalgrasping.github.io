@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Live sessions"
+title:  "Workshop Objectives"
 date:   2022-02-15 09:00:00
 isStaticPost: false
 ---
