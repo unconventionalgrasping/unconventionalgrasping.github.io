@@ -12,36 +12,12 @@
     #- {name: "twitter", link: "https://twitter.com/zasadnyy"}
     #- {name: "github", link: "https://github.com/zasadnyy"}
     #- {name: "site", link: "http://zasadnyy.com/"}
-- 
-  id: 1
-  name: "Dimitrios"
-  surname: "Kanoulas"
-  title: "Lecturer, UCL"
-  thumbnailUrl: dimitris.jpg
-  team: false
-  ribbon: 
-    #- {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    #- {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    #- {name: "github", link: "https://github.com/ozasadnyy"}
-- 
-  id: 2
-  name: "Kensuke"
-  surname: "Harada"
-  title: "Professor, Osaka University"
-  thumbnailUrl: harada2.png
-  team: false
-  ribbon: 
-    #- {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    #- {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    #- {name: "github", link: "https://github.com/ozasadnyy"}
-- 
+-     
   id: 3
-  name: "Giulia"
-  surname: "Vezzani"
-  title: "Researcher, Google Deepmind"
-  thumbnailUrl: giulia.jpg
+  name: "Vatsal"
+  surname: "Patel"
+  title: "PhD Student, Yale University"
+  thumbnailUrl: joao.jpg
   team: false
   ribbon: 
     #- {abbr: "GDG", title: "Google Developer Group"}
