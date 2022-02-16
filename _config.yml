@@ -209,7 +209,7 @@ footerBlocks:
 
 # Blog
 blogTitle: "Latest news"
-blogCommentsEnabled: true
+blogCommentsEnabled: false
 discusShortName: "unconventionalgrasping"
 
 # Speakers List Block
