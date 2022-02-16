@@ -62,7 +62,7 @@ rightNavigationButtons:
  - {link: "/schedule/", text: "Watch Videos"}
 
 #Banner block
-bannerImage: "iros2020banner.png"
+bannerImage: "iros2022logo.png"
 
 # Hero Block
 heroImage: "white.jpg"
