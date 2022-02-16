@@ -68,9 +68,9 @@ bannerImage: "iros2020banner.png"
 heroImage: "white.jpg"
 heroTitle: "unconventionalgrasping?"
 heroDesc: "Unconventional Robot Grasping & Manipulation"
-eventDate: "Workshop at IROS 2020"
-typeoutTextValues: '"ases", "auses"'
-typeoutFallback: "a(u)ses"
+eventDate: "Workshop at IROS 2022"
+#typeoutTextValues: '"ases", "auses"'
+#typeoutFallback: "a(u)ses"
 heroButtons:
  - {link: "/schedule/", text: "Watch Videos"}
  #- {link: "https://docs.google.com/forms/d/e/1FAIpQLSdL80eFW_E_u2Lxh6EtlvDFLHRn1uA4Sy7DHuNtjs4cZrz5GQ/viewform?usp=sf_link", text: "Contribute"}
