@@ -1,46 +1,8 @@
 ---
 layout: post
 title:  "Live sessions"
-date:   2020-10-20 09:00:00
+date:   2022-02-15 09:00:00
 isStaticPost: false
 ---
 
 #### Workshop announcement ####
-##### Live Sessions: #####
-Due to the on-demand nature of IROS2020 and to accommodate to the different time-zones, we are holding two separate live sessions.
-
-
-####### **October 26th** 15:00-19:00 UTC #######
-
-####### **October 28th** 00:00-04:00 UTC #######
-
-In the first 2 hours of each sessions we will replay the videos, which you can also watch [**here**](/../schedule/).
-
-These will be followed by a 2 hour live session with Q&A to the speakers and round-table discussion.
-
-
-
-During the live session the following accepted contributions will also be presented and discussed:
-1. Xinghao Zhu, Yongxiang Fan, Shiyu Jin, Changhao Wang, and Masayoshi Tomizuka, ["Why Does Robotic Dexterous Hand Grasp Fail?"](https://drive.google.com/file/d/1TyFzacBYUzEcFkIJfihGNeYRXkcS8op7/view?usp=sharing)
-2. Alberto Camacho, Jacob Varley, Andy Zeng, Deepali Jain, Atil Iscen, Dmitry Kalshnikov, ["Disentangled Planning and Control in Vision Based Robotics via Reward Machines (Extended Abstract)"](https://drive.google.com/file/d/1GPDcV7pISGtBxKaMk_XjHWEz7vk0CVHh/view?usp=sharing)
-3. Roberto Meattini, Vincenzo Salzillo, Andrea Gigli, Claudio Melchiorri, and Claudio Castellini, ["A remarkable failure story in close human-robot interaction: advanced myocontrol of prosthetic hands"](https://drive.google.com/file/d/1VLpYBmUTzZoDDvy87xSD9ani5cbGtI_1/view?usp=sharing)
-4. Benjamin Panreck, Simon Untergasser, Manfred Hild, ["Model-free Monocular Visual Servoing"](https://drive.google.com/file/d/12VNfTDC7BmKoYg1NtCyoo0o4flKteab2/view?usp=sharing)
-5. Alex Mitrevski and Paul G. Ploger, ["Lack of Understanding of Objects as a Cause of Manipulation Failures"](https://drive.google.com/file/d/17ORCb8AsQMLQVavO_4reRR0p_sqYx2Ba/view?usp=sharing)
-6. Maximo A. Roa, Werner Friedl, Ashok M. Sundaram, ["Robustness and Performance under Failures in the CLASH Hand"](https://drive.google.com/file/d/1OzazbCuhwS32dpx5wnXIv-jm5noCyHsm/view?usp=sharing)
-7. Lima Agnel Tony, Shuvrangshu Jana, Debasish Ghose, ["Why it failed to grab the ball?"](https://drive.google.com/file/d/1mJgUh3PqZN-2IbTOuyXpvH43apWhUCFb/view?usp=sharing)
-8. Neel Doshi, Orion Taylor, and Alberto Rodriguez, ["Pivoting a Partially Unknown Object about an Environmental Contact"](https://drive.google.com/file/d/1U4rOjIZ4KvS9X7MZOA6VnEBE9bek4FCR/view?usp=sharing)
-9. Caris Moses and Jane Shi, ["Integrating State Estimation and Perception for Picking"](https://drive.google.com/file/d/1znixuo0pREwWzJm4yyjafG9IJ6Bld4Mw/view?usp=sharing)
-10. Anjali Harish Asar, Stephanie Hughes, Nigel Swenson, Xiaoli Fern, Ravi Balasubramanian and Cindy Grimm, ["Structured Noise to Increase the Reliability of Grasping"](https://drive.google.com/file/d/1tPWzKUCX3l_nYz_e-ktpxXTJxiGBMW3f/view?usp=sharing)
-
-
-
-#### Organizers: ####
-Joao Bimbo, Yale University
-
-Giulia Vezzani, DeepMind
-
-Kensuke Harada, Osaka University
-
-Dimitrios Kanoulas, University College London
-
-Email organizers at [failtograsp@gmail.com](mailto:failtograsp@gmail.com)
