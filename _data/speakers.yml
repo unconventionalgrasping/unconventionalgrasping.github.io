@@ -1,14 +1,3 @@
-- 
-  id: 3
-  name: "Joao"
-  surname: "Bimbo"
-  company: "Yale University"
-  title: "Postdoctoral Associate"
-  bio: "" #Joao Bimbo is a Postdoctoral Associate at the GrabLab, at the Yale School of Engineering & Applied Science. He has an MSc in Electrical Engineering from the University of Coimbra (Portugal) and a PhD in Robotics from King’s College London (UK). He was previously a postdoc the Italian Institute of Technology. His research interests are robot grasping and manipulation, tactile sensing and rehabilitation robots. "
-  thumbnailUrl: joao.jpg
-  rockstar: false
-  social: 
-    #- {name: "facebook", link: "https://www.facebook.com/MickeyMouse/"}
 -
   id: 10
   name: "Vatsal"
@@ -20,6 +9,17 @@
   rockstar: true
   social: 
     - {name: "site", link: "http://www.google.com/"}
+- 
+  id: 3
+  name: "Joao"
+  surname: "Bimbo"
+  company: "Yale University"
+  title: "Postdoctoral Associate"
+  bio: "" #Joao Bimbo is a Postdoctoral Associate at the GrabLab, at the Yale School of Engineering & Applied Science. He has an MSc in Electrical Engineering from the University of Coimbra (Portugal) and a PhD in Robotics from King’s College London (UK). He was previously a postdoc the Italian Institute of Technology. His research interests are robot grasping and manipulation, tactile sensing and rehabilitation robots. "
+  thumbnailUrl: joao.jpg
+  rockstar: true
+  social: 
+    #- {name: "facebook", link: "https://www.facebook.com/MickeyMouse/"}
 -
   id: 2
   name: "Hannah"
@@ -30,7 +30,7 @@
   thumbnailUrl: vatsal.jpg
   rockstar: true
   social: 
-    - {name: "site", link: "http://www.google.com/"}
+    - {name: "site", link: "https://me.berkeley.edu/people/hannah-stuart/"}
 -
   id: 4
   name: "Kensuke"
@@ -41,6 +41,83 @@
   thumbnailUrl: vatsal.jpg
   rockstar: true
   social: 
-    - {name: "site", link: "http://www.google.com/"}
+    - {name: "site", link: "https://www.roboticmanipulation.org/members2/kensuke-harada/"}
 -  
-  
+  id: 6
+  name: "Matie"
+  surname: "Ciocarlie"
+  company: "Columbia University"
+  title: "Associate Professor"
+  bio: "" #Jeannette Bohg is a Professor for Robotics at Stanford University and the director the Interactive Perception and Robot Learning Lab. Her research lies at the intersection of Robotics, Machine Learning and Computer Vision applied to problems in Robotic Grasping and Manipulation."
+  thumbnailUrl: vatsal.jpg
+  rockstar: true
+  social: 
+    - {name: "site", link: "https://www.me.columbia.edu/faculty/matei-ciocarlie"}
+- 
+  id: 8
+  name: "Kenji"
+  surname: "Tahara"
+  company: "Kyushu University"
+  title: "Professor"
+  bio: "" #Jeannette Bohg is a Professor for Robotics at Stanford University and the director the Interactive Perception and Robot Learning Lab. Her research lies at the intersection of Robotics, Machine Learning and Computer Vision applied to problems in Robotic Grasping and Manipulation."
+  thumbnailUrl: vatsal.jpg
+  rockstar: true
+  social: 
+    - {name: "site", link: "http://www.kt.mech.kyushu-u.ac.jp/index_e.html"}
+- 
+  id: 12
+  name: "Domenico"
+  surname: "Prattichizzo"
+  company: "University of Siena"
+  title: "Professor"
+  bio: "" #Jeannette Bohg is a Professor for Robotics at Stanford University and the director the Interactive Perception and Robot Learning Lab. Her research lies at the intersection of Robotics, Machine Learning and Computer Vision applied to problems in Robotic Grasping and Manipulation."
+  thumbnailUrl: vatsal.jpg
+  rockstar: true
+  social: 
+    - {name: "site", link: "https://www3.diism.unisi.it/~domenico/"}
+- 
+  id: 14
+  name: "Maria"
+  surname: "Pozzi"
+  company: "University of Seina"
+  title: "Post-Doc"
+  bio: "" #Jeannette Bohg is a Professor for Robotics at Stanford University and the director the Interactive Perception and Robot Learning Lab. Her research lies at the intersection of Robotics, Machine Learning and Computer Vision applied to problems in Robotic Grasping and Manipulation."
+  thumbnailUrl: vatsal.jpg
+  rockstar: true
+  social: 
+    - {name: "site", link: "https://www3.diism.unisi.it/~pozzi/
+"}
+- 
+  id: 16
+  name: "Kevin"
+  surname: "Lynch"
+  company: "Northwestern University"
+  title: "Professor"
+  bio: "" #Jeannette Bohg is a Professor for Robotics at Stanford University and the director the Interactive Perception and Robot Learning Lab. Her research lies at the intersection of Robotics, Machine Learning and Computer Vision applied to problems in Robotic Grasping and Manipulation."
+  thumbnailUrl: vatsal.jpg
+  rockstar: true
+  social: 
+    - {name: "site", link: "https://robotics.northwestern.edu/people/profiles/faculty/lynch-kevin.html"}
+- 
+  id: 18
+  name: "Oliver"
+  surname: "Kroemer"
+  company: "Carnegie Mellon University"
+  title: "Assistant Professor"
+  bio: "" #Jeannette Bohg is a Professor for Robotics at Stanford University and the director the Interactive Perception and Robot Learning Lab. Her research lies at the intersection of Robotics, Machine Learning and Computer Vision applied to problems in Robotic Grasping and Manipulation."
+  thumbnailUrl: vatsal.jpg
+  rockstar: true
+  social: 
+    - {name: "site", link: "https://www.ri.cmu.edu/ri-faculty/oliver-kroemer/"}
+- 
+  id: 20
+  name: "Amy"
+  surname: "Han"
+  company: "Seoul National University"
+  title: "Assistant Professor"
+  bio: "" #Jeannette Bohg is a Professor for Robotics at Stanford University and the director the Interactive Perception and Robot Learning Lab. Her research lies at the intersection of Robotics, Machine Learning and Computer Vision applied to problems in Robotic Grasping and Manipulation."
+  thumbnailUrl: vatsal.jpg
+  rockstar: true
+  social: 
+    - {name: "site", link: "https://hero.snu.ac.kr/about-me"}
+- 
