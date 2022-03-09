@@ -52,7 +52,7 @@ navigationLinks:
  #- {permalink: "/blog/ws", text: "Contributions"}
  #- {permalink: "/blog/", text: "News"}
  #- {permalink: "/schedule/", text: "Schedule & Videos"}
- #- {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/speakers/", text: "Speakers"}
  #- {permalink: "/team/", text: "Organizers"} 
  #- {permalink: "https://yale.zoom.us/j/94133362140", text: "Join Live Session (Zoom)"}
  #- {permalink: "/hackathon/", text: "Hackathon"}
@@ -78,13 +78,13 @@ heroButtons:
 
 # About Block
 aboutTitle: "About the Workshop"
-aboutAbstract: "This workshop is dedicated to the discussion of Unconventional Robot Grasping & Manipulation"
+aboutAbstract: "This workshop is dedicated to the discussion of Unconventional Robot Grasping & Manipulation Approaches"
 aboutBlock:
  #- {title: "Speakers", image: "conference.jpg", text: "A range of speakers from backgrounds in academia and industry" }
- #- {title: "Interact", image: "hackathon.jpg", text: "Interact with other participants. Share your failure story with us!" }
+ - {title: "Interact", image: "hackathon.jpg", text: "Interact with other participants. Share your unconventional story with us!" }
  - {title: "Learn", image: "learn.jpg", text: "from the experience of other participants."}
- #- {title: "Share", image: "share.png", text: "your unsuccessful ideas, hypotheses, and experiments."}
- #- {title: "Network", image: "network.png", text: "with other participants. Join efforts to address common problems."}
+ - {title: "Share", image: "share.png", text: "your atypical ideas, hypotheses, and experiments."}
+ - {title: "Network", image: "network.png", text: "with other participants. Join efforts to address common problems."}
  #- {title: "Create", image: "create.png", text: "new research problems."}
 
 # Statistic Block
