@@ -11,9 +11,9 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "Unconventional Robot Grasping & Manipulation"
+title: "Unconventional Robot Grasping & Manipulation Strategies"
 email: "unconventionalgrasping@gmail.com"
-description: "Unconventional Robot Grasping & Manipulation"
+description: "Unconventional Robot Grasping & Manipulation Strategies"
 baseurl: "/"
 url: "http://unconventionalgrasping.github.io"
 permalink: "/blog/:title"
@@ -66,9 +66,9 @@ bannerImage: "iros2022logo.png"
 
 # Hero Block
 heroImage: "white.jpg"
-heroTitle: "unconventionalgrasping?"
-heroDesc: "Unconventional Robot Grasping & Manipulation"
-eventDate: "Workshop at IROS 2022"
+heroTitle: "Unconventional Grasping & Manipulation Strategies"
+heroDesc: "Innovative robot hands, unusual methods, uncommon objects & environments, and more."
+eventDate: "Workshop at IROS 2022, Kyoto, Japan"
 #typeoutTextValues: '"ases", "auses"'
 #typeoutFallback: "a(u)ses"
 heroButtons:
@@ -78,7 +78,7 @@ heroButtons:
 
 # About Block
 aboutTitle: "About the Workshop"
-aboutAbstract: "This workshop is dedicated to the discussion of Unconventional Robot Grasping & Manipulation Approaches"
+aboutAbstract: "This workshop is dedicated to the discussion of Unconventional Approaches in Robot Grasping & Manipulation."
 aboutBlock:
  #- {title: "Speakers", image: "conference.jpg", text: "A range of speakers from backgrounds in academia and industry" }
  - {title: "Interact", image: "hackathon.jpg", text: "Interact with other participants. Share your unconventional story with us!" }
