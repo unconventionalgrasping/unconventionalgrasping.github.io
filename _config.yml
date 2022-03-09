@@ -52,7 +52,7 @@ navigationLinks:
  #- {permalink: "/blog/ws", text: "Contributions"}
  #- {permalink: "/blog/", text: "News"}
  #- {permalink: "/schedule/", text: "Schedule & Videos"}
- - {permalink: "/speakers/", text: "Speakers"}
+#  - {permalink: "/speakers/", text: "Speakers"}
  #- {permalink: "/team/", text: "Organizers"} 
  #- {permalink: "https://yale.zoom.us/j/94133362140", text: "Join Live Session (Zoom)"}
  #- {permalink: "/hackathon/", text: "Hackathon"}
