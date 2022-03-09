@@ -8,18 +8,18 @@
   thumbnailUrl: vatsal.jpg
   rockstar: true
   social: 
-    - {name: "site", link: "http://www.google.com/"}
+    - {name: "site", link: "https://about.me/vatsal-patel"}
 - 
   id: 3
   name: "Joao"
   surname: "Bimbo"
-  company: "Yale University"
-  title: "Postdoctoral Associate"
+  company: "Universidade Lusófona"
+  title: "Assistant Professor"
   bio: "" #Joao Bimbo is a Postdoctoral Associate at the GrabLab, at the Yale School of Engineering & Applied Science. He has an MSc in Electrical Engineering from the University of Coimbra (Portugal) and a PhD in Robotics from King’s College London (UK). He was previously a postdoc the Italian Institute of Technology. His research interests are robot grasping and manipulation, tactile sensing and rehabilitation robots. "
   thumbnailUrl: joao.jpg
   rockstar: true
   social: 
-    #- {name: "facebook", link: "https://www.facebook.com/MickeyMouse/"}
+    #- {name: "site", link: "https://scholar.google.com/citations?user=jjX9JIQAAAAJ&hl=en"}
 -
   id: 2
   name: "Hannah"
