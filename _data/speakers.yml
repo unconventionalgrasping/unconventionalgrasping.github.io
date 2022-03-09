@@ -16,7 +16,31 @@
   company: "Yale University"
   title: "PhD Student"
   bio: "" #Jeannette Bohg is a Professor for Robotics at Stanford University and the director the Interactive Perception and Robot Learning Lab. Her research lies at the intersection of Robotics, Machine Learning and Computer Vision applied to problems in Robotic Grasping and Manipulation."
-  thumbnailUrl: joao.jpg
+  thumbnailUrl: vatsal.jpg
   rockstar: true
   social: 
     - {name: "site", link: "http://www.google.com/"}
+-
+  id: 2
+  name: "Hannah"
+  surname: "Stuart"
+  company: "University of California, Berkeley"
+  title: "Assistant Professor"
+  bio: "" #Jeannette Bohg is a Professor for Robotics at Stanford University and the director the Interactive Perception and Robot Learning Lab. Her research lies at the intersection of Robotics, Machine Learning and Computer Vision applied to problems in Robotic Grasping and Manipulation."
+  thumbnailUrl: vatsal.jpg
+  rockstar: true
+  social: 
+    - {name: "site", link: "http://www.google.com/"}
+-
+  id: 4
+  name: "Kensuke"
+  surname: "Harada"
+  company: "Osaka University"
+  title: "Professor"
+  bio: "" #Jeannette Bohg is a Professor for Robotics at Stanford University and the director the Interactive Perception and Robot Learning Lab. Her research lies at the intersection of Robotics, Machine Learning and Computer Vision applied to problems in Robotic Grasping and Manipulation."
+  thumbnailUrl: vatsal.jpg
+  rockstar: true
+  social: 
+    - {name: "site", link: "http://www.google.com/"}
+-  
+  
